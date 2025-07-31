@@ -26,10 +26,9 @@ To run this Python script on your local machine:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/your-username/python-list-operations-assignment.git](https://github.com/your-username/python-list-operations-assignment.git)
+    git clone https://github.com/samuelodusanwo/python_list_operation
     cd python-list-operations-assignment # Navigate into the project directory
     ```
-    *(Replace `your-username` with your actual GitHub username.)*
 
 2.  **Execute the Python Script:**
     ```bash
