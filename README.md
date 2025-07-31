@@ -26,7 +26,7 @@ To run this Python script on your local machine:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone (https://github.com/samuelodusanwo/python_list_operation)
+    git clone https://github.com/samuelodusanwo/python_list_operation
     cd python-list-operations-assignment # Navigate into the project directory
     ```
 
